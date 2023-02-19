@@ -13,7 +13,7 @@ export const TaskList = () => {
       size="sm"
       icon={
         <ThemeIcon color="cyan" size={24} radius="xl">
-          <IconCircleDashed size={16} _ />
+          <IconCircleDashed size={16} />
         </ThemeIcon>
       }
     >
