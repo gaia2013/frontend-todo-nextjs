@@ -5,7 +5,7 @@ import { useRouter } from 'next/router'
 import { LogoutIcon } from '@heroicons/react/solid'
 import UserInfo from '@/components/UserInfo'
 import { useQueryClient } from '@tanstack/react-query'
-import TaskForm from '@/components/TAskForm'
+import TaskForm from '@/components/TaskForm'
 import { TaskList } from '@/components/TaskList'
 
 const Dashboard: NextPage = () => {
